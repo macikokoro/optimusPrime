@@ -16,6 +16,6 @@ function optimusPrime(n) {
     }
 }
 
-var candidate = prompt("I Optimus Prime request a number!")
+var candidate = prompt("I Optimus Prime request a number!");
 
 optimusPrime(candidate);
