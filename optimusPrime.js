@@ -1,4 +1,4 @@
-
+// Checking for primeness
 function optimusPrime(n) {
     isPrime = true;
     var isPrime = true;
